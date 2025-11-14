@@ -253,7 +253,7 @@ function App() {
       </div>
 
       <div id='changingElements'>
-        <BrowserRouter>
+        <BrowserRouter basename="/portfolio-web">
           <div id="links">
             <div id='navLinks'>
               <nav>
